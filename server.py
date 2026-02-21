@@ -1,4 +1,4 @@
-# updated: 2026-05-07
+# fix: initialize MCP server project structure
 """
 Email Automation MCP Server
 Allows AI assistants to send, draft, and manage emails autonomously.
