@@ -104,3 +104,5 @@ async def tool_create_draft(to: str, subject: str, body: str) -> dict:
 
 if __name__ == "__main__":
     mcp.run()
+
+# Setup FastMCP and server structure
