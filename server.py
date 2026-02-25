@@ -1,4 +1,4 @@
-# fix: initialize MCP server project structure
+# fix: setup FastMCP and register tools
 """
 Email Automation MCP Server
 Allows AI assistants to send, draft, and manage emails autonomously.
