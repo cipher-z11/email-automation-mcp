@@ -210,3 +210,5 @@ async def create_draft(to: str, subject: str, body: str) -> dict:
         return {"status": "success", "message": "Draft saved successfully"}
     except Exception as e:
         return {"status": "error", "message": str(e)}
+
+# Implement SMTP send_email tool
