@@ -1,3 +1,4 @@
+# fix: implement SMTP send_email tool
 # last_updated: 2026-05-07 09:56
 """
 Core email tool implementations using IMAP/SMTP.
