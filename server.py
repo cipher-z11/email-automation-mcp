@@ -1,4 +1,4 @@
-# fix: setup FastMCP and register tools
+# fix: add IMAP email listing and search
 """
 Email Automation MCP Server
 Allows AI assistants to send, draft, and manage emails autonomously.
