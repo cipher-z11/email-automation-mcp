@@ -1,4 +1,4 @@
-# fix: implement SMTP send_email tool
+# fix: implement draft and attachment support
 # last_updated: 2026-05-07 09:56
 """
 Core email tool implementations using IMAP/SMTP.
