@@ -1,4 +1,4 @@
-# fix: implement draft and attachment support
+# fix: add error handling and security checks
 # last_updated: 2026-05-07 09:56
 """
 Core email tool implementations using IMAP/SMTP.
