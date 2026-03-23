@@ -1,4 +1,4 @@
-# fix: add IMAP email listing and search
+# fix: test with Gmail and Outlook providers
 """
 Email Automation MCP Server
 Allows AI assistants to send, draft, and manage emails autonomously.
