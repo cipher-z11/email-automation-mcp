@@ -1,4 +1,4 @@
-# fix: test with Gmail and Outlook providers
+# fix: write README with Claude Desktop integration
 """
 Email Automation MCP Server
 Allows AI assistants to send, draft, and manage emails autonomously.
