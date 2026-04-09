@@ -1,4 +1,4 @@
-# fix: add .env.example and finalize requirements
+# fix: fix IMAP reconnection and timeout handling
 """
 Email Automation MCP Server
 Allows AI assistants to send, draft, and manage emails autonomously.
