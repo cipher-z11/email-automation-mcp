@@ -106,3 +106,5 @@ if __name__ == "__main__":
     mcp.run()
 
 # Setup FastMCP and server structure
+
+# Add .env.example and finalize requirements
