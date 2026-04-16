@@ -1,4 +1,4 @@
-# fix: add error handling and security checks
+# fix: improve email validation before sending
 # last_updated: 2026-05-07 09:56
 """
 Core email tool implementations using IMAP/SMTP.
