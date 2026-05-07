@@ -1,3 +1,4 @@
+# updated: 2026-05-07
 """
 Email Automation MCP Server
 Allows AI assistants to send, draft, and manage emails autonomously.
