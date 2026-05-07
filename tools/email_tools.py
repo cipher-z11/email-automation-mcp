@@ -1,3 +1,4 @@
+# last_updated: 2026-05-07 09:56
 """
 Core email tool implementations using IMAP/SMTP.
 Supports Gmail, Outlook, and any standard email provider.
