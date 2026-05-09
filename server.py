@@ -1,3 +1,4 @@
+# updated: 2026-05-09
 # fix: fix IMAP reconnection and timeout handling
 """
 Email Automation MCP Server
